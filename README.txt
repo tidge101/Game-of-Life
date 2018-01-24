@@ -18,4 +18,6 @@ I can’t figure out why but Doughnut mode and Mirror mode inconsistently give s
 Other notes:
 My solution consists of a Grid class and a main function.
 
+To compile: Simply type make in command line
+
 When file output is specified, output is written to dillontidgewell.out
